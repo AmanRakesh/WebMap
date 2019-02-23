@@ -11,4 +11,4 @@ This Script makes use of Folium and Pandas library of python to generate the lay
 Folium makes use of map objects and traces the position of the marked points in World map with the help of Lattitude and longitude  of the given place.
 For adding details of lattitude and longitude of places I have used txt files, and to draw population density polygon i have used world.json file which consist lat. and long. of countries  and their population.
 
-Folium will save all the layers in a HTML file. So wen need to check the file to use and see the details.
+Folium will save all the layers in a HTML file. So we need to check HTML file and see the details.
