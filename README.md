@@ -4,6 +4,7 @@ In this file I have included a layer for:
 1. Population density of different countries as of year 2005
 2. Top 20 Waterfalls in India
 3. Top 30 Temples in India
+
 As the name suggest this Script makes one WebMap based on details provided.
 The layers can be switched on and off as per your wish. Each marked point in the layer (either a circle mark or normal mark) wil show you the name of the place and will also let you search about the place in one click in google.
 This Script makes use of Folium and Pandas library of python to generate the layers.
